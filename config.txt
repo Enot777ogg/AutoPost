@@ -1,5 +1,4 @@
-token=https://oauth.vk.com/authorize?client_id=123456&scope=photos,audio,video,docs,notes,pages,status,offers,questions,wall,groups,messages,email,notifications,stats,ads,offline,docs,pages,stars,notifications&response_type=token
-
+token=https://oauth.vk.com/blank.html#access_token=de2e833a8d3fc45bf43cc042dc2c69c571949635b5d33b2c9f448f38e0f3121180ab25f9475b117cde387&expires_in=0&user_id=182433604&email=kavun.shamil@mail.ru
 rand_delay_min=1
 rand_delay_max=5
 isthirdpython=0
