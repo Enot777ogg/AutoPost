@@ -1,0 +1,8 @@
+token=https://api.vk.com/blank.html#access_token=2cde3d41e9f4ebf91319dd486d20d20d99fca9128e61a21907cb19cf4c8cd5e41880ce4cdfebe9f4016bf&expires_in=0&user_id=501852253
+rand_delay_min=1
+rand_delay_max=5
+isthirdpython=0
+accountid=182433604
+allowedids=182433604
+check_chat_cmd=Aye
+task_limit=5
