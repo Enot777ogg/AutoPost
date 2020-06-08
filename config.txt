@@ -1,4 +1,4 @@
-token=https://oauth.vk.com/blank.html#access_token=de2e833a8d3fc45bf43cc042dc2c69c571949635b5d33b2c9f448f38e0f3121180ab25f9475b117cde387&expires_in=0&user_id=182433604&email=kavun.shamil@mail.ru
+token=https://api.vk.com/blank.html#access_token=d0bd54cf01f885c9179973cb4bbe96fa1a3bc5fdad9ea6f2422270785417df5d6d91d8949afdd0c227607&expires_in=0&user_id=182433604
 rand_delay_min=1
 rand_delay_max=5
 isthirdpython=0
