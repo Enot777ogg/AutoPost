@@ -4,5 +4,5 @@ rand_delay_max=5
 isthirdpython=0
 accountid=182433604
 allowedids=182433604
-check_chat_cmd=Aye
+check_chat_cmd=kolbasa
 task_limit=5
